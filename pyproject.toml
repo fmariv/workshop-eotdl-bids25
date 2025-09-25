@@ -1,0 +1,17 @@
+[project]
+name = "workshop-eotdl-bids2025"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "eotdl>=2025.6.27.post2",
+    "ipykernel>=6.30.1",
+    "leafmap>=0.52.3",
+    "matplotlib>=3.10.6",
+    "onnx>=1.19.0",
+    "onnxruntime>=1.22.1",
+    "pytorch-eo>=2025.4.3",
+    "segmentation-models-pytorch>=0.5.0",
+    "sentinelhub>=3.11.2",
+]
