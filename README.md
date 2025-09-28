@@ -23,9 +23,8 @@ This tutorial will guide you step by step through the EOTDL ecosystem:
 5. [Private datasets in the EOTDL](05_private_datasets.ipynb)
 6. [Creating a dataset with the EOTDL](06_creating.ipynb)
 7. [Training a ML model](07_training.ipynb)
-8. [Inference with a ML model](08_inference.ipynb)
-9. [Ingesting a model](09_inference.ipynb)
-10. [How to contribute](10_contributing.ipynb)
+8. [Ingesting a model](09_inference.ipynb)
+9. [How to contribute](10_contributing.ipynb)
 
 ## Getting Started
 
